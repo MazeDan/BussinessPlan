@@ -7,6 +7,3 @@
     <title>BFE</title>
 </head>
 <body>
-    <h2>Olá</h2>
-</body>
-</html>
