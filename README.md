@@ -1,7 +1,11 @@
 # BussinessPlan
  |Tabela de Objetivos| Concluido? | Quem está fazendo?|
  | :---:   | :---: | :---: |
-| Iniciar o site |   não | Todos
+| sistema de upload de fotos |   Sim | Daniel
+| sistema de tabelas |   Sim | Daniel
+| Inserção no Banco de dados |   Sim | Daniel
+
+
 
 
 
